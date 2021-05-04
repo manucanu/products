@@ -1,0 +1,14 @@
+/* .container-fluid{
+    background-color: grey;
+} */
+.navbar.container-fluid{
+    padding: 0 2rem 0 5rem;
+}
+.collapse{
+    font-family: "Roboto",cursive;
+    text-transform: uppercase;
+    font-weight: 500px;
+    padding: .4rem;
+    color: pink;
+
+}
